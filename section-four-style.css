@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&display=swap');
+
+.Topic{
+    text-align: center;
+    font-size: 25px;
+    
+}
+.pics{
+    display:flex;
+    padding: 0px;
+
+}
+img{
+    height: 250px;
+    width: 350px;
+}
+body{
+    background-color: #FFBA00;
+    font-family: 'Chivo Mono', monospace;
+
+
+}
+.CAP{
+    padding: 40px;
+    text-align: center;
+}
+.TONY{
+    padding: 40px;
+    text-align: center;
+}
+.THOR{
+    padding: 40px;
+    text-align: center;
+}
+
+
+h2{
+    font-size: 32px;
+    font-weight: 3100;
+}
+p{
+    font-size: 20px;
+}
+.h3{
+    font-weight: 1100;
+}
